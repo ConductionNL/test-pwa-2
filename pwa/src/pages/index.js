@@ -32,7 +32,7 @@ const IndexPage = () => {
           <div style={{textAlign: 'center'}}>
             <h1 className="utrecht-heading-1 utrecht-heading-1--distanced">Demodam</h1>
             <h4 className="utrecht-heading-4 utrecht-heading-4--distanced">
-              Een fictieve gemeentesite ten behoeve van #commonground applicaties.
+              Een iets minder fictieve gemeentesite ten behoeve van #commonground applicaties.
             </h4>
 
             <Grid container spacing={2} sx={{marginTop: '20px'}}>
